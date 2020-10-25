@@ -9,7 +9,6 @@
 	<description>Spring2Go PetClinic Cloud Gateway</description>
 
     <!--for testing circleci 7-->
-
 	<parent>
 		<groupId>com.spring2go.samples</groupId>
 		<artifactId>spring-petclinic-msa</artifactId>
